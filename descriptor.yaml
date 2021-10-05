@@ -1,0 +1,7 @@
+code: thousandgroups
+description: a thousand groups
+bundle-type: system-level-bundle
+components:
+  fragments: []
+  groups:
+    - groups/groups-descriptor.yaml
